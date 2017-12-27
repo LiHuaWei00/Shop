@@ -12,6 +12,7 @@ import java.util.List;
 
 /**
  * Created by Huazi on 2017/10/18.
+ * huazi重新添加的
  */
 public class CartDao {
     public ResultSet resultSet = null;
