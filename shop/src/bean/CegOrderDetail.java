@@ -2,6 +2,7 @@ package bean;
 
 /**
  * Created by Huazi on 2017/10/18.
+ * sssss
  */
 public class CegOrderDetail {
     private int id;
